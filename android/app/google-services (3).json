@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3748566823",
+    "project_id": "prj-1-ea1ef",
+    "storage_bucket": "prj-1-ea1ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3748566823:android:0c9175fa0363cf04ebbb02",
+        "android_client_info": {
+          "package_name": "com.example.duan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmCzgE_sg6_MbVkxpfM9E3oghIGEM5sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
